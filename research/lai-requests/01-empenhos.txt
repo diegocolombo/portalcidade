@@ -1,0 +1,12 @@
+Com base na Lei nº 12.527/2011 (art. 8º, §3º, incisos II e III) e na Lei Complementar nº 101/2000 (art. 48-A, inciso I), solicito os dados de execução da despesa do Município de Cascavel em nível de empenho, de 01/01/2021 até a data da resposta, em formato aberto e legível por máquina (CSV ou JSON), contendo para cada empenho:
+
+- número e data do empenho;
+- órgão e unidade orçamentária;
+- classificação orçamentária (função, subfunção, programa, ação e natureza da despesa);
+- fonte de recurso;
+- CPF/CNPJ e nome do credor;
+- número do processo e da licitação, dispensa ou inexigibilidade vinculada;
+- histórico/objeto;
+- valores empenhados, anulados, liquidados e pagos, com as respectivas datas.
+
+Solicito também informar se há previsão de disponibilizar esses dados na API de Dados Abertos do Portal da Transparência (/api/WCPDadosAbertos/despesas), que hoje os apresenta apenas agregados por órgão, fonte de recurso e credor, sem número, data ou objeto do empenho.

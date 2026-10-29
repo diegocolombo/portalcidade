@@ -1,0 +1,10 @@
+Com base na Lei nº 12.527/2011, solicito a folha de pagamento mensal dos servidores do Município de Cascavel (efetivos, comissionados, temporários, estagiários, inativos e pensionistas), de janeiro de 2021 até o último mês fechado, em formato aberto e legível por máquina (CSV), contendo para cada servidor e mês:
+
+- nome e matrícula;
+- cargo ou função, vínculo e lotação;
+- carga horária;
+- remuneração bruta, discriminando vencimento base, vantagens, gratificações, horas extras e verbas indenizatórias;
+- descontos (contribuição previdenciária, IRRF e abate-teto);
+- remuneração líquida.
+
+A API de Dados Abertos de Pessoal do Portal da Transparência (/api/transparencia-pessoal-funcionarios) informa apenas o salário base. Solicito também informar se há previsão de incluir esses campos na API.

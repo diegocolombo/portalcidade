@@ -1,0 +1,7 @@
+Com base na Lei nº 12.527/2011, solicito os seguintes dados do Município de Cascavel em formato aberto e legível por máquina (CSV ou JSON):
+
+1. As listas de espera da saúde publicadas no Portal da Transparência (consultas, exames e cirurgias), com posição, especialidade ou procedimento, data de inclusão e unidade de referência, sem dados pessoais identificáveis.
+2. O estoque e a dispensação de medicamentos por unidade de saúde.
+3. Os dados divulgados no item "Dados da educação municipal" do Portal da Transparência, incluindo matrículas por escola e série, fila de espera dos CMEIs e número de professores por escola.
+
+Solicito também informar a periodicidade de atualização de cada conjunto e se há previsão de incluí-los na API de Dados Abertos do Portal da Transparência.
